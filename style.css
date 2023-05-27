@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.ok{
+    float: right;
+}
+
+h3{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
